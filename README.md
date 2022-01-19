@@ -1,6 +1,6 @@
 ### Junaid farooq
 
-I'm Junaid, and I do full-stack web application development. I like using my skill and experience in the best way possible while constantly learning new stuff, upgrading my skill-set and applying those things in my daily work.
+I'm Junaid, and I do full-stack web application development. I like using my skills and experience in the best way possible while constantly learning new stuff, upgrading my skill-set and applying those things in my daily work.
 
 Skills: HTML, CSS, JS, TS, ReactJs, PHP, SQL, Symfony, Laravel, MySQL, GIT, AWS, etc.
 
