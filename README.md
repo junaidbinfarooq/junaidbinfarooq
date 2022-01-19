@@ -4,7 +4,7 @@ I'm Junaid, and I do full-stack web application development. I like using my ski
 
 Skills: HTML, CSS, JS, TS, ReactJs, PHP, SQL, Symfony, Laravel, MySQL, GIT, AWS, etc.
 
-- 🔭 I’m currently working on [Qbil-Trade](https://github.com/qbilSoftware/qbil-trade/)
+- 🔭 I’m currently working for [Qbil Software bv](https://github.com/qbilSoftware/)
 - 🌱 I’m currently learning TypeScript
 - 💬 Let's talk about Clean code, architecture, and everything in between 😉
 - 😄 Pronouns: He/Him
