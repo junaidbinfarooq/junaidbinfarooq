@@ -3,7 +3,7 @@
 I'm Junaid, and I do full-stack web application development. I like using my skills and experience in the best way possible while constantly learning new stuff, upgrading my skill-set and applying those things in my daily work.
 
 - 🔭 I’m currently working for [Qbil Software bv](https://github.com/qbilSoftware/)
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning architecture, scalability, aws, and other interesting stuff
 - 💬 Let's talk about anything [here](https://github.com/junaidbinfarooq/junaidbinfarooq/issues)
 - 😄 Pronouns: He/Him
 
